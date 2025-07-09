@@ -8,3 +8,4 @@ Resumo financeiro com cálculo automático do saldo
 Perfil do usuário simples
 Estilização básica e estrutura simples, como apresentado nas aulas.
 
+Link Snack: "https://snack.expo.dev/@arthursig/projeto-final"
